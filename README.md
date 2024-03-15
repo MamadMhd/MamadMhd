@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My Personal webpage<br>🌱 I’m currently learning Django and sometimes React<br>💬 Ask me about Python & Django<br>
+<br>
 
 
 ## 🌐 Socials:
