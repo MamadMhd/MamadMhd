@@ -1,5 +1,5 @@
-# 💫 About Me:
-Front-end developer with more than 1 year of experience in developing and designing professional websites using HTML, CSS, JavaScript, React and Next frameworks. Interested in learning new technologies and improving the user interface with beautiful and practical designs. Ability to work in a team and solve problems creatively.
+# About Me:
+Full Stack Developer specializing in Next.js and React, with hands-on experience across the entire web development stack and deployment pipeline.
 <br>
 
 
